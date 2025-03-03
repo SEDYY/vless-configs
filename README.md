@@ -1,7 +1,6 @@
 # 🚀 NekoBox VPN Servers | Optimized Configurations
 
 **High-performance VPN servers optimized for NekoBox client usage**  
-![GitHub](https://img.shields.io/github/license/SEDYY/vless-configs/) 
 ![NekoBox Version](https://img.shields.io/badge/NekoBox-2.0+-blue)
 
 A collection of optimized server configurations designed specifically for use with [NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid), supporting modern protocols and advanced features for secure networking.
