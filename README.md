@@ -5,8 +5,6 @@
 
 A collection of optimized server configurations designed specifically for use with [NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid), supporting modern protocols and advanced features for secure networking.
 
-![NekoBox Server Architecture](https://via.placeholder.com/800x400.png?text=NekoBox+Server+Infrastructure)
-
 ## 📋 Table of Contents
 - [Key Features](#-key-features)
 - [Supported Protocols](#-supported-protocols)
