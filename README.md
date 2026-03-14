@@ -21,4 +21,4 @@ A collection of optimized server configurations designed specifically for use wi
 | VLESS          | 443   | TLSv1.3 + AES-256   | ✅ Full         |
 
 ## 🖥 Requirements
-nevermind?)
+SOME VPN CLIENT (LIKE A HIDDIFY, V2RAY ETC)
