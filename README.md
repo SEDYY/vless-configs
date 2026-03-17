@@ -3,8 +3,6 @@
 **High-performance VPN servers optimized for NekoBox client usage**  
 ![NekoBox Version](https://img.shields.io/badge/NekoBox-2.0+-blue)
 
-A collection of optimized server configurations designed specifically for use with [NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid), supporting modern protocols and advanced features for secure networking.
-
 ## 📋 Table of Contents
 - [Key Features](#-key-features)
 - [Supported Protocols](#-supported-protocols)
