@@ -1,14 +1,14 @@
-# 🚀 NekoBox VPN Servers | Optimized Configurations
+# NekoBox VPN Servers | Optimized Configurations
 
 **High-performance VPN servers optimized for NekoBox client usage**  
 ![NekoBox Version](https://img.shields.io/badge/NekoBox-2.0+-blue)
 
-## 📋 Table of Contents
+## Table of Contents
 - [Key Features](#-key-features)
 - [Supported Protocols](#-supported-protocols)
 - [Requirements](#-requirements)
 
-## ✨ Key Features
+## Key Features
 - ✅ Optimized for NekoBox client (Android/Windows)
 - ✅ Xray-core integration with latest features
 - ✅ VLESS protocol
