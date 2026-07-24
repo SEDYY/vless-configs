@@ -13,10 +13,10 @@
 - ✅ Xray-core integration with latest features
 - ✅ VLESS protocol
 
-## 📡 Supported Protocols
+## Supported Protocols
 | Protocol       | Port  | Encryption          | NekoBox Support |
 |----------------|-------|---------------------|-----------------|
 | VLESS          | 443   | TLSv1.3 + AES-256   | ✅ Full         |
 
-## 🖥 Requirements
+## Requirements
 SOME VPN CLIENT (LIKE A HIDDIFY, V2RAY ETC)
